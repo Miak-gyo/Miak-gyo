@@ -32,14 +32,6 @@ ___
 
 </div>
 
-</td>
-
-<td align="right" width="50%">
-
-
-
-</td>
-
 </tr>
 </table>
 
