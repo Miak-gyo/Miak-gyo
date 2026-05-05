@@ -57,7 +57,7 @@ ___
 <br/><br/>
 
 ## Statistics
-<div style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; gap: 10px;">
   
 <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
