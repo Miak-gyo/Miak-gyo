@@ -60,7 +60,7 @@ ___
 <div align="center">
 <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
-<img src="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
+<img src="<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Miak-gyo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=EBEBEB&fire=EBEBEB&excludeDaysLabel=EBEBEB&stroke=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideNums=EBEBEB&sideLabels=FFFFFF&border=252525" alt="GitHub Streak" /></a>"/>
 
 <br/>
 
