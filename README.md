@@ -1,13 +1,9 @@
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC%26&size=28&pause=1000&color=F7F7F7&width=435&lines=Full-stack+developer+apprentice;S.W.A.G" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IM+Fell+English+SC%26&size=28&pause=1000&color=F7F7F7&center=true&width=435&lines=Full-stack+developer+apprentice;S.W.A.G" alt="Typing SVG" /></a>
 </div>
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Prata-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
-
-
----
+___
 
 <br/><br/>
 
@@ -16,9 +12,9 @@
 <table width="100%">
 <tr>
 
-<td align="left" width="50%">
+<td align="right" width="50%">
 
-<div style="background-color:#111; padding:20px 25px; border-radius:12px;">
+<div style="background-color:#111; padding:15px 20px; border-radius:12px;">
 
 <pre>
 ◈  Class     →  Backend / Full-Stack Apprentice
@@ -29,7 +25,7 @@
 
 </td>
 
-<td align="right" width="50%">
+<td align="left" width="50%">
 
 <div style="border-radius:18px; overflow:hidden;">
 
