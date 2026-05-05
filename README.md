@@ -26,7 +26,7 @@ ___
 <div style="background-color:#111; padding:15px 20px; border-radius:12px;">
 
 <pre>
-◈  Class     →  Backend / Full-Stack Apprentice
+◈  Class     →  Full-Stack Apprentice
 ◈  Origin    →  Brazil 🇧🇷
 </pre>
 
