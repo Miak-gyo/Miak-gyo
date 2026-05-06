@@ -59,7 +59,7 @@ ___
 ## Statistics
 <div align="center" style="display: flex; gap: 10px;">
   
-<img width="300" height="200" alt="Image" src="https://i.pinimg.com/originals/1c/61/0f/1c610f4ccb0f1c590c370b53feada1e9.gif" />
+<img width="400"  alt="Image" src="https://i.pinimg.com/originals/1c/61/0f/1c610f4ccb0f1c590c370b53feada1e9.gif" />
 
 <img src="https://streak-stats.demolab.com?user=Miak-gyo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=EBEBEB&fire=EBEBEB&excludeDaysLabel=EBEBEB&stroke=EBEBEB&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideNums=EBEBEB&sideLabels=FFFFFF&border=252525" alt="GitHub Streak" /></a>
 
